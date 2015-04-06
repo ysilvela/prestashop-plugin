@@ -1,6 +1,6 @@
 # Descripcion
 
-Bitcoin payment plugin para PrestaShop para usar el servicio de gateway.eligeBTC.com.
+Bitcoin payment plugin para PrestaShop y poder usar el servicio de gateway.eligeBTC.com.
 
 [![Build Status](https://travis-ci.org/bitpay/prestashop-plugin.svg?branch=master)](https://travis-ci.org/bitpay/prestashop-plugin)
 
