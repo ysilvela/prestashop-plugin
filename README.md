@@ -1,23 +1,23 @@
-# Description
+# Descripcion
 
-Bitcoin payment plugin for PrestaShop using the bitpay.com service.
+Bitcoin payment plugin para PrestaShop para usar el servicio de gateway.eligeBTC.com.
 
 [![Build Status](https://travis-ci.org/bitpay/prestashop-plugin.svg?branch=master)](https://travis-ci.org/bitpay/prestashop-plugin)
 
 
-## Quick Start Guide
+## Guia rapida
 
-To get up and running with our plugin quickly, see the GUIDE here: https://github.com/bitpay/prestashop-plugin/blob/master/GUIDE.md
+Para configurar y usar la guia rapidamente, mira esta guia aqui: https://github.com/ysilvela/prestashop-plugin/blob/master/GUIDE.md
 
 
-# Support
+# Soporte
 
-## BitPay Support
+## EligeBTC Support
 
-* [GitHub Issues](https://github.com/bitpay/prestashop-plugin/issues)
-  * Open an issue if you are having issues with this plugin.
-* [Support](https://support.bitpay.com)
-  * BitPay merchant support documentation
+* [GitHub Issues](https://github.com/ysilvela/prestashop-plugin/issues)
+  * Abre un issue si encuentras problemas con el plugin.
+* [Support](https://support.eligebtc.com)
+  * Soporte de EligeBTC para comercios
 
 
 ## PrestaShop Support
@@ -27,12 +27,12 @@ To get up and running with our plugin quickly, see the GUIDE here: https://githu
 * [Support Forums](http://www.prestashop.com/forums/)
 
 
-# Contribute
+# Contribuciones
 
-To contribute to this project, please fork and submit a pull request.
+Para contribuir con este proyecto, haz fork y haz requests.
 
 
-# License
+# Licencia
 
 The MIT License (MIT)
 
