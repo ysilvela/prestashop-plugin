@@ -1,29 +1,29 @@
-# Using the BitPay plugin for Prestashop
-## Prerequisites
-You must have a BitPay merchant account to use this plugin.  It's free to [sign-up for a BitPay merchant account](https://bitpay.com/start).
+# Guia para usar el plugin de EligeBTC para Prestashop
+## Prerequisitos
+Tienes que tener cuenta con EligeBTC. Si no tienes cuenta de comercio escribe a info@eligeBTC.com
 
 
-## Server Requirements
+## Requerimientos de Servidor
 
 + PrestaShop 1.4+
 + PHP 5+
 + Curl PHP Extension
 + JSON PHP Extension
 
-## Plugin Configuration
+## Configuracion del Plugin
 
-###For Prestashop versions 1.5 and older:
-1. Upload files to your PrestaShop installation.<br />
-2. Go to your PrestaShop administration. Modules -> Payments & Gateways -> "BitPay" click [Install]<br />
-3. Go to your PrestaShop administration. Modules -> Payments & Gateways -> "BitPay" click [Configure]<br />
-4. Create an API Key in your bitpay account at bitpay.com.<br />
-5. Enter your API Key from step 4.
-6. Choose "Low" or "Medium" Speed. The High Speed setting is broken.
+###Para versiones de Prestashop 1.5 y anteriores:
+1. Sube los ficheros a tu instalacion de Prestashop.<br />
+2. Ve a la ventana de administracion de PrestaShop. Modules -> Payments & Gateways -> "EligeBTC" click [Install]<br />
+3. Ve a la ventana de administracion de PrestaShop. Modules -> Payments & Gateways -> "EligeBTC" click [Configure]<br />
+4. Solicita tus API Key a tu gestor de EligeBTC en info@eligebtc.com.<br />
+5. Introduce tus API Key del paso 4.
+6. Elige "Low" o "Medium" velocidad. El High Speed no funciona.
 
-###For Prestashop versions 1.6 and newer:
-1. Upload files to your PrestaShop installation.<br />
-2. Go to your PrestaShop administration. Modules -> "BitPay" click [Install]<br />
-3. Go to your PrestaShop administration. Modules -> "BitPay" click [Configure]<br />
-4. Create an API Key in your bitpay account at bitpay.com.<br />
-5. Enter your API Key from step 4.
-6. Choose "Low" or "Medium" Speed. The High Speed setting is broken.
+###Para versiones 1.6 o nuevas de Prestashop:
+1. Sube los ficheros a tu instalacion de Prestashop.<br />
+2. Ve a la ventana de administracion de PrestaShop. Modules -> Payments & Gateways -> "EligeBTC" click [Install]<br />
+3. Ve a la ventana de administracion de PrestaShop. Modules -> Payments & Gateways -> "EligeBTC" click [Configure]<br />
+4. Solicita tus API Key a tu gestor de EligeBTC en info@eligebtc.com.<br />
+5. Introduce tus API Key del paso 4.
+6. Elige "Low" o "Medium" velocidad. El High Speed no funciona.
